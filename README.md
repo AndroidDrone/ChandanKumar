@@ -25,6 +25,7 @@ With over 11+ years of experience in Mobile Engineering, I have successfully del
 ## Certifications
 
 - Certified Scrum Master: Actively leading Scrum calls and contributing to agile development processes.
+- Big Data Analyst: Certified in Big Data Analyst from S.P Jain Institute of Management. 
 
 ## Achievements
 
