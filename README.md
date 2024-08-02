@@ -2,7 +2,7 @@
 
 ## Professional Summary
 
-With over 11+ years of experience in Mobile Engineering, I have successfully delivered cutting-edge applications for Fortune 500 companies across diverse industries, including enterprise, healthcare, e-commerce, security, chat-bot and IoT-based metering solutions. My expertise extends to both online and offline applications, providing robust solutions that meet the unique needs of each domain. I have specialized in integrating NLP and Dialogflow for developing intelligent chat-bot applications, enhancing user engagement and automating customer interactions.
+With over 12+ years of experience in Mobile Engineering, I have successfully delivered cutting-edge applications for Fortune 500 companies across diverse industries, including enterprise, healthcare, e-commerce, security, chat-bot and IoT-based metering solutions. My expertise extends to both online and offline applications, providing robust solutions that meet the unique needs of each domain. I have specialized in integrating NLP and Dialogflow for developing intelligent chat-bot applications, enhancing user engagement and automating customer interactions.
 
 ## Technical Skills
 
