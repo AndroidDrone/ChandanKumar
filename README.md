@@ -14,17 +14,19 @@ With over 12+ years of experience in Mobile Engineering, I have successfully del
   
 4. **Database Management:** Experienced in working with MySQL and SQLite databases, ensuring efficient and secure data handling.
 
-5. **Programming Languages:** Skilled in Kotlin and Java, employing industry best practices to deliver scalable and maintainable code.
+5. **Programming Languages:** Skilled in Kotlin, Java, and currently expanding my expertise to Golang, employing industry best practices to deliver scalable and maintainable code.
+   
+6. **Backend Development**: Proficient in using Spring Boot & Golang for creating robust, scalable backend services and APIs.
 
-6. **Project Management Tools:** Proficient in utilizing Jira, Jenkins, and Redmine for seamless project tracking, collaboration, and continuous integration.
+7. **Project Management Tools:** Proficient in utilizing Jira, Jenkins, and Redmine for seamless project tracking, collaboration, and continuous integration.
 
-7. **Cloud Services:** Well-versed in AWS Web Services, including EC2, ELB, S3, and CloudWatch, leveraging the power of the cloud for scalable and reliable solutions.
+8. **Cloud Services:** Well-versed in AWS Web Services, including EC2, ELB, S3, and CloudWatch, leveraging the power of the cloud for scalable and reliable solutions.
 
-8. **DevOps Expertise:** Specialized in AWS DevOps, implementing continuous delivery and deployment strategies for streamlined software delivery.
+9. **DevOps Expertise:** Specialized in AWS DevOps, implementing continuous delivery and deployment strategies for streamlined software delivery.
 
-9. **Infrastructure as Code:** Adept at using Ansible for automating infrastructure provisioning and configuration management.
+10. **Infrastructure as Code:** Adept at using Ansible for automating infrastructure provisioning and configuration management.
 
-10. **Containerization Technologies:** Currently expanding skill set to include Docker and Kubernetes for efficient container orchestration and deployment.
+11. **Containerization Technologies:** Currently expanding skill set to include Docker and Kubernetes for efficient container orchestration and deployment.
 
 ## Certifications
 
